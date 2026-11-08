@@ -62,6 +62,20 @@ Explore these important project components:
 The goal is to understand how raw text becomes
 cleaned, structured data suitable for analysis.
 
+## Notebook experiments
+
+- [Phase 4: Minimum token length](notebooks/minimum_token_length.ipynb)
+  compares three- and two-character minimums on the original sample.
+  Both settings kept 46 tokens and 38 unique terms.
+- [Phase 5: Fellowship orientation feedback](notebooks/fellowship_orientation_feedback.ipynb)
+  applies the same comparison to
+  [12 fictional comments](data/fellowship_orientation_feedback.txt)
+  created for this exercise with ChatGPT assistance. The shorter threshold
+  kept 86 tokens versus 73 and surfaced ID and IV five times each.
+
+To reproduce the results in VS Code, select the project's uv-managed
+`.venv` as the notebook kernel and choose **Run All**.
+
 ## Run the Project
 
 Follow the [Professional Python Workflow Guide]
