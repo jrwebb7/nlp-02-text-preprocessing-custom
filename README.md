@@ -1,8 +1,8 @@
-# nlp-02-text-preprocessing
+# nlp-02-text-preprocessing-custom
 
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](pyproject.toml)
-[![CI](https://github.com/denisecase/nlp-02-text-preprocessing/actions/workflows/ci-python-zensical.yml/badge.svg)](https://github.com/denisecase/nlp-02-text-preprocessing/actions/workflows/ci-python-zensical.yml)
-[![Documentation](https://img.shields.io/badge/docs-site-blue?logo=github)](https://denisecase.github.io/nlp-02-text-preprocessing/)
+[![CI](https://github.com/jrwebb7/nlp-02-text-preprocessing-custom/actions/workflows/ci-python-zensical.yml/badge.svg)](https://github.com/jrwebb7/nlp-02-text-preprocessing-custom/actions/workflows/ci-python-zensical.yml)
+[![Documentation](https://img.shields.io/badge/docs-site-blue?logo=github)](https://jrwebb7.github.io/nlp-02-text-preprocessing-custom/)
 
 [![uv managed](https://img.shields.io/badge/uv-managed-DE5FE9)](https://docs.astral.sh/uv/)
 [![ty type checked](https://img.shields.io/badge/ty-type_checked-2F80ED)](https://docs.astral.sh/ty/)
@@ -13,22 +13,14 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: James Webb
 
-Date: 2026 October
+Date: 2026-11
 
-Second project in the Web Mining and Applied NLP course.
-
-This project introduces text preprocessing,
-an important foundation for natural language processing.
-
-The goal is to read text data,
-apply common preprocessing techniques,
-compare raw and cleaned text,
-and understand how preprocessing decisions affect analysis.
-
-The project is configured in
-[pyproject.toml](pyproject.toml).
+This project explores how text cleaning changes which words appear most
+often in fictional fellowship orientation feedback. I plan to compare
+word frequencies using minimum token lengths of three and two characters
+to see whether short terms like "ID" and "IT" add useful detail.
 
 ## Data
 
@@ -72,7 +64,7 @@ cleaned, structured data suitable for analysis.
 
 ## Run the Project
 
-Follow the [Professional Python Workflow Guide](https://denisecase.github.io/pro-analytics-02/)
+Follow the [Professional Python Workflow Guide]
 to set up your machine and project environment.
 
 From a VS Code terminal in the project root:
@@ -127,7 +119,7 @@ uv run python -m pytest
 
 ## Project Documentation
 
-The [hosted documentation site](https://denisecase.github.io/nlp-02-text-preprocessing/)
+The [hosted documentation site](https://jrwebb7.github.io/nlp-02-text-preprocessing-custom/)
 is published using Zensical and GitHub Pages.
 
 The documentation site is used to present the project report,
@@ -141,8 +133,8 @@ to check project files and publish the docs.
 
 GitHub Actions include:
 
-- [CI: Python and Documentation Checks](https://github.com/denisecase/nlp-02-text-preprocessing/actions/workflows/ci-python-zensical.yml)
-- [CD: Documentation Deployment](https://github.com/denisecase/nlp-02-text-preprocessing/actions/workflows/deploy-zensical.yml)
+- [CI: Python and Documentation Checks](https://github.com/jrwebb7/nlp-02-text-preprocessing-custom/actions/workflows/ci-python-zensical.yml)
+- [CD: Documentation Deployment](https://github.com/jrwebb7/nlp-02-text-preprocessing-custom/actions/workflows/deploy-zensical.yml)
 
 ## Developer Reference
 
@@ -227,7 +219,7 @@ testing, documentation, and code quality.
 
 ## Links
 
-- [Hosted Documentation](https://denisecase.github.io/nlp-02-text-preprocessing/)
+- [Hosted Documentation](https://jrwebb7.github.io/nlp-02-text-preprocessing-custom/)
 - [Professional Python Workflow Guide](https://denisecase.github.io/pro-analytics-02/)
 - [Citation](CITATION.cff)
 - [License](LICENSE)
