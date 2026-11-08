@@ -1,3 +1,6 @@
+# Author: James Webb
+# Date: 2026-11
+
 """text_preprocessing.py - Project script (example).
 
 Purpose

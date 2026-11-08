@@ -78,10 +78,10 @@ and modern language-model applications.
 
 ## Project Links
 
-- [GitHub Repository](https://github.com/denisecase/nlp-02-text-preprocessing)
-- [Example Script](https://github.com/denisecase/nlp-02-text-preprocessing/blob/main/src/nlp/text_preprocessing.py)
-- [Example Notebook](https://github.com/denisecase/nlp-02-text-preprocessing/blob/main/notebooks/text_preprocessing.ipynb)
-- [Example Data](https://github.com/denisecase/nlp-02-text-preprocessing/blob/main/data/text_data.txt)
+- [GitHub Repository](https://github.com/jrwebb7/nlp-02-text-preprocessing-custom)
+- [Example Script](https://github.com/jrwebb7/nlp-02-text-preprocessing-custom/blob/main/src/nlp/text_preprocessing.py)
+- [Example Notebook](https://github.com/jrwebb7/nlp-02-text-preprocessing-custom/blob/main/notebooks/text_preprocessing.ipynb)
+- [Example Data](https://github.com/jrwebb7/nlp-02-text-preprocessing-custom/blob/main/data/text_data.txt)
 
 ## Project Resources
 

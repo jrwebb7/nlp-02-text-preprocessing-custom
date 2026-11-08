@@ -1,3 +1,6 @@
+# Author: James Webb
+# Date: 2026-11
+
 """Offline smoke test for the text preprocessing example."""
 
 import runpy

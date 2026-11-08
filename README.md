@@ -20,7 +20,7 @@ Date: 2026-11
 This project explores how text cleaning changes which words appear most
 often in fictional fellowship orientation feedback. I plan to compare
 word frequencies using minimum token lengths of three and two characters
-to see whether short terms like "ID" and "IT" add useful detail.
+to see whether short terms like "ID" and "IV" add useful detail.
 
 ## Data
 
